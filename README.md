@@ -1,1 +1,1 @@
-### Hi I'm Seo Jumee 🐨
+### Hi I'm Seo Jumee 👋
