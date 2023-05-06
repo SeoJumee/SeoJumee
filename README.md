@@ -1,7 +1,7 @@
-## Hello, I'm Seo Jumee who wants to be a front-end developer 🥰
+## Hello, I'm Seo Jumee who wants to be a front-end developer. 🥰
 
-Languages : javascript, typescript
+**Languages**: javascript, typescript
 
-Libraries : React.js
+**Libraries**: React.js
 
-Style : css, styled-components, Emotion.js
+**Styles**: css, styled-components, Emotion.js
