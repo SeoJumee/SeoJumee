@@ -5,3 +5,5 @@
 **Libraries**: React.js
 
 **Styles**: css, styled-components, Emotion.js
+
+**Contact me**: official.jumee@gmail.com
