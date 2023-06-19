@@ -6,4 +6,6 @@
 
 **Styles**: css, styled-components, Emotion.js
 
+**State Management** : recoil
+
 **Contact me**: official.jumee@gmail.com
