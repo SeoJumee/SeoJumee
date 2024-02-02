@@ -1,11 +1,13 @@
 ## Hello, I'm Seo Jumee who wants to be a front-end developer. 🥰
 
-**Languages**: javascript, typescript
+**Languages**: Javascript, Typescript
+
+**FrameWorks**: Next.js
 
 **Libraries**: React.js
 
-**Styles**: css, styled-components, Emotion.js
+**Styles**: css, styled-components, Emotion
 
-**State Management**: recoil
+**State Managements**: recoil, zustand
 
 **Contact me**: official.jumee@gmail.com
